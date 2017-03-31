@@ -3,7 +3,7 @@ package leetcode.first;
  * 
  * created on 2017年3月31日 
  *
- * 
+ * 合并两个排序的链表
  *
  * @author  megagao
  * @version  0.0.1
